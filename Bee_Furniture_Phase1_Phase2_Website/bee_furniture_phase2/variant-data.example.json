@@ -1,0 +1,10 @@
+{
+  "1": {
+    "productName": "Cloud L-Shaped Sofa",
+    "variants": [
+      { "colour": "Ivory", "hex": "#e9e5dc", "image": "assets/cloud-ivory.jpg", "verified": true },
+      { "colour": "Charcoal", "hex": "#454545", "image": "assets/cloud-charcoal.jpg", "verified": true },
+      { "colour": "Taupe", "hex": "#aa9480", "image": "assets/cloud-taupe.jpg", "verified": true }
+    ]
+  }
+}
